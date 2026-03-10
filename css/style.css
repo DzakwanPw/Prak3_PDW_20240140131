@@ -1,0 +1,25 @@
+/* Pengaturan untuk Nama (H1) */
+.nama-user {
+    color: #7a201d; /* Warna merah tua khas UMY */
+    margin-top: 15px;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+/* Pengaturan untuk Tagline */
+.tagline {
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Pengaturan Badge Hijau seperti contoh */
+.status-badge {
+    background-color: #1b4d3e; /* Warna hijau tua */
+    color: white;
+    padding: 10px 20px;
+    border-radius: 20px;
+    display: inline-block;
+    font-style: italic;
+    font-weight: bold;
+}
